@@ -53,15 +53,4 @@ These preprocessing steps created paired datasets of low-resolution and high-res
 - **Model Performance**: Achieved 67.68% accuracy based on evaluation metrics.  
 - **Visual Comparisons**: Demonstrated clear improvements in resolution with examples of low-resolution, high-resolution, and restored images.
 
----
 
-## 🛠️ Installation and Usage
-
-### Prerequisites
-- Python 3.8 or higher.  
-- Required libraries: TensorFlow, NumPy, Matplotlib.  
-
-### Steps:
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
